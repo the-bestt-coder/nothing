@@ -193,11 +193,11 @@ export default function Home() {
                   textAlign: 'left',
                 }}
               >
-                Checkout the other clone&apos;s developed by Sonny Sangha
+                Checkout the other clone&apos;s developed by Nivan
                 he&apos;s really cool. To view the Initial and original version
                 inspired from Sonny Sangha{' '}
                 <a
-                  href="https://baseline-whatsapp-clone-next-js.vercel.app/"
+                  href="https://nivan.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   style={{ color: '#006aff', cursor: 'pointer' }}
