@@ -63,7 +63,7 @@ export default function Home() {
                 <li>Auto scroll to last message</li>
                 <li>
                   <a
-                    href="https://github.com/Ajay-056/Whatsapp-Clone-NextJS/tags"
+                    href="https://github.com/the-bestt-coder"
                     target="_blank"
                     rel="noreferrer"
                   >
