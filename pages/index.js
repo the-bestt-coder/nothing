@@ -231,7 +231,8 @@ export default function Home() {
               >
                 Im enhancing this regulary on weekends. Hope you like this.
                 Please let me know if you find any bugs or feature requests by
-                creating issue in this project repository.
+                creating issue in this project repository.To contact me you can
+                message me at nivanparekh14@gmail.com in this app.
               </p>
               <div
                 style={{
