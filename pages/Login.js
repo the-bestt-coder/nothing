@@ -25,12 +25,12 @@ function Login() {
       </LoginContainer>
       <SocialContainer>
         <a
-          href="https://github.com/Ajay-056/Whatsapp-Clone-NextJS"
+          href="Nivan"
           target="_blank noreferrer"
         >
           <Image src="/icons8-github.svg" alt="github" height={40} width={40} />
         </a>
-        <a href="https://www.twitter.com/balaajay19" target="_blank noreferrer">
+        <a href="https://www.twitter.com/nivan" target="_blank noreferrer">
           <Image
             src="/icons8-twitter-48.png"
             alt="twitter"
@@ -39,7 +39,7 @@ function Login() {
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/ajay-krishna-065a1a162"
+          href="https://www.linkedin.com/nivan"
           target="_blank noreferrer"
         >
           <Image
