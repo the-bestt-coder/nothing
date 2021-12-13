@@ -172,16 +172,7 @@ export default function Home() {
                 }}
               >
                 Welcome to the Whatsapp clone made from Next JS, React JS and
-                Firebase. This was originally developed by{' '}
-                <a
-                  href="https://www.youtube.com/user/ssangha32"
-                  rel="noreferrer"
-                  target="_blank"
-                  style={{ color: '#006aff', cursor: 'pointer' }}
-                >
-                  @Sonny Sangha
-                </a>{' '}
-                and enhanced by me further.
+                Firebase.
               </p>
               <p
                 style={{
@@ -194,8 +185,7 @@ export default function Home() {
                 }}
               >
                 Checkout the other clone&apos;s developed by Nivan
-                he&apos;s really cool. To view the Initial and original version
-                inspired from Sonny Sangha{' '}
+                he&apos;s really cool.
                 <a
                   href="https://nivan.vercel.app/"
                   target="_blank"
